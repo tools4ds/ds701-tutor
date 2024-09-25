@@ -3,17 +3,17 @@ retriever:
     RAGatouille: "XThomasBU/Colbert_Index"
 
 metadata:
-  metadata_links: ["https://dl4ds.github.io/sp2024/lectures/", "https://dl4ds.github.io/sp2024/schedule/"]
-  slide_base_link: "https://dl4ds.github.io"
+  metadata_links: ["https://tools4ds.github.io/fa2024/lectures/", "https://tools4ds.github.io/fa2024/schedule_a1/"]
+  slide_base_link: "https://tools4ds.github.io/fa2024/lectures/"
 
 token_config:
   cooldown_time: 60
   regen_time: 180
-  tokens_left: 2000
+  tokens_left: 50000
   all_time_tokens_allocated: 1000000
 
 misc:
-  github_repo: "https://github.com/edubotics-ai/edubot-core"
+  github_repo: "https://github.com/tools4ds/ds701-tutor"
   docs_website: "https://dl4ds.github.io/dl4ds_tutor/"
 
 api_config:
