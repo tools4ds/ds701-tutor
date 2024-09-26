@@ -44,6 +44,7 @@ a[href*='https://github.com/Chainlit/chainlit']
   color: #000000;
 }
 
-.css-dbukeo {
+/* Hide the logout button */
+.css-1cgea9 {
   display: none !important;
 }
