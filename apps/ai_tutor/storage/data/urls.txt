@@ -1,2 +1,3 @@
 https://tools4ds.github.io/fa2024/
 https://tools4ds.github.io/DS701-Course-Notes/
+https://raw.githubusercontent.com/tools4ds/ds701_fa2024_assignments/refs/heads/main/midterm/README.md
